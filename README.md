@@ -13,7 +13,6 @@ The project follows the Medallion architecture to ensure data quality, reliabili
 
 
 2. **Silver Layer**: Data cleaning, schema enforcement, and standardization.
-* Implements **SCD Type 2** tracking for `Customers` and `Products` to maintain historical changes.
 * Standardizes date formats and casts data types for downstream analysis.
 
 
